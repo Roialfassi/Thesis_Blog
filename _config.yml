@@ -12,7 +12,7 @@ lang: en-US
 title: "Thesis Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "Trying to detect ChatGPT written text from real people's written text."
+description: "Exploring the LLMs writings and the community perception"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: "/Thesis_Blog"
